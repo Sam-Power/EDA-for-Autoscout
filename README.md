@@ -1,8 +1,4 @@
-___
 
-<p style="text-align: center;"><img src="https://docs.google.com/uc?id=1lY0Uj5R04yMY3-ZppPWxqCr5pvBLYPnV" class="img-fluid" alt="CLRSWY"></p>
-
-___
 <h1><p style="text-align: center;">Exploratory Data Analysis (EDA) Project</p></h1> 
 
 <blockquote style="background: #f9f9f9;padding: 0.5em 10px;" class="">
