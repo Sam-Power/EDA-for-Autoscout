@@ -11,7 +11,7 @@
 - This dataset, scraped from the on-line car trading company in 2019, contains many features of 9 different car models.
 - The features (variables) of this dataset are too messy and distored.
 
-# What is expected of you?
+# What is expected?
 - Read the ``.json`` file and assign the dataset into a ``DataFrame`` using ``pandas``.
 - Implement all aspects of the **EDA process** to the dataset.
    - Fix corrupted data formats,
@@ -26,16 +26,3 @@
    - Use visualization tools while doing all these processes.
 - As a result, get the dataset ready to provide an appropriate input to the ML models.
 - Save cleaned dataset into a ``.csv`` file.
-
-# Need to Study :
-- ``.str.method``,
-- ``.contains()``,
-- ``.extract()``,
-- ``.to_datetime()``,
-- ``.get_dummies()``,
-- ``.add_prefix()``,
-- ``.sample()``,
-- `regex`,
-- ``.to_numeric()``,
-- ``.isin()``,
-- ``.corr()``.
